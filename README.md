@@ -1,4 +1,4 @@
-## Olá eu sou Júlia Amtias, estudante de ads!
+## Olá eu sou Júlia matias, estudante de ads!
 
 <!--
 **J7liaM/J7liaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
